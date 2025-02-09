@@ -1,4 +1,2 @@
-# pgweb-acara3
-Belajar Javascript
-
-Link: [Calculator](https://salsabilaeka.github.io/pgweb-acara3/)
+# Praktikum Pemrograman Web - Acara 3
+Hasil: [Calculator](https://salsabilaeka.github.io/pgweb-acara3/)
